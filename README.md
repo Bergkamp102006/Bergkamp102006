@@ -25,8 +25,6 @@
 **📈 Résultats :** Modélisation 5 ans | +25% précision | Segmentation utilisateurs  
 **🛠️ Stack :** Python | Pandas | Scikit-learn | Excel  
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_PROJECT1?style=social)](https://github.com/YOUR_USERNAME/YOUR_PROJECT1)
-
 ---
 
 ### 📊 **Tableau de Bord Power BI Interactif**
@@ -82,9 +80,6 @@ graph TD
 # 🏆 **Mesmin Randhal** - *Data Analyst Football & Gaming* ⚽🎮
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=⚽+Analytics+Football+%26+Stades;🎮+Data+Gaming+%26+Retention;📊+PowerBI+Dashboards;🔮+Prédictions+IA;🚀+Data-Driven+Player)](https://github.com/MesminRandhal)
-
-📊 **Stats en direct**
-![Metrics](https://github-readme-stats.vercel.app/api?username=MesminRandhal&show_icons=true&theme=dark&hide_border=true&title_color=FDB927&text_color=FFFFFF&hide=issues)
 
 </div>
 
