@@ -150,7 +150,7 @@ https://media.giphy.com/media/gaming-dashboard/giphy.gif
 https://shields.io/ → "PSG Fan" #1DA1F2
 https://shields.io/ → "Steam 2000h" #FF6B35
 
-# 1. Clone ton repo
+# 1. Clone 
 git clone https://github.com/Bergkamp102006/Bergkamp102006.git
 
 # 2. Crée structure
