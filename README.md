@@ -8,7 +8,6 @@
 🧠 Approche orientée data-driven
 
 📊 Projets
-
 🔋 Prévision de chiffre d’affaires – Bornes de recharge
 
 Modélisation sur 5 ans
