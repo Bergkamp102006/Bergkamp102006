@@ -1,0 +1,91 @@
+assets/videos/dashboard-demo.mp4
+assets/screenshots/*.gif
+assets/animations/football-pulse.json
+https://github.com/MesminRandhal/assets/raw/main/videos/dashboard-demo.mp4
+
+0-2s : Logo "Mesmin - Data Analyst" + ballon rebond
+2-5s : Dashboard PowerBI zoom (stats foot)
+5-8s : Graphiques gaming analytics
+8-10s : Call-to-action "Contactez-moi !"
+
+<video width="100%" height="250" autoplay loop muted playsinline>
+  <source src="https://user-images.githubusercontent.com/136035185/274979678-8b0b5b5e-2b0e-4b0a-9b0a-5b5e2f3d4e5f.mp4" type="video/mp4">
+  <!-- Vidéo foot/data générique -->
+</video>
+
+![Prediction Football](https://github.com/Bergkamp102006/assets/raw/main/screenshots/prediction-football.gif)
+
+![Gaming Dashboard](https://github.com/Bergkamp102006/assets/raw/main/screenshots/gaming-dashboard.gif)
+
+<div align="center">
+
+<!-- ⚽ FOOTBALL BANNER ANIMÉE -->
+<img src="https://github.com/MesminRandhal/assets/raw/main/banner-football.gif" width="100%" alt="Football Data Banner"/>
+
+# 🏆 **Mesmin Randhal** - *Data Analyst Football & Gaming* ⚽🎮
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=⚽+Analytics+Football+%26+Stades;🎮+Data+Gaming+%26+Retention;📊+PowerBI+Dashboards;🔮+Prédictions+IA;🚀+Data-Driven+Player)](https://github.com/MesminRandhal)
+
+📊 **Stats en direct**
+![Metrics](https://github-readme-stats.vercel.app/api?username=MesminRandhal&show_icons=true&theme=dark&hide_border=true&title_color=FDB927&text_color=FFFFFF&hide=issues)
+
+</div>
+
+## 🔥 **PROJETS FOOTBALL & GAMING**
+
+### ⚽ **Prédiction Affluence Stades** 
+<div align="center">
+<img src="https://github.com/MesminRandhal/assets/raw/main/screenshots/prediction-football.gif" width="49%"/>
+<img src="https://github.com/MesminRandhal/assets/raw/main/screenshots/stadium-heatmap.gif" width="49%"/>
+</div>
+
+**📈 +35% précision | 5 ans historiques | Segmentation fans**  
+**🛠️** Python | Prophet | PowerBI
+
+### 🎮 **Dashboard Gaming Analytics**
+<div align="center">
+<video width="100%" height="300" autoplay loop muted playsinline>
+  <source src="https://github.com/MesminRandhal/assets/raw/main/videos/gaming-demo.mp4" type="video/mp4">
+</video>
+</div>
+
+**🎯 Retention | LTV | Churn | Heatmaps sessions**
+
+### 🏟️ **Géospatial Stades France**
+<img src="https://github.com/MesminRandhal/assets/raw/main/screenshots/geospatial-stadiums.gif" width="100%"/>
+
+---
+
+## 🛠️ **Tech Stack GAMER**
+
+```mermaid
+graph TD
+    A[⚽ Football Data] --> B[📊 Python/ML]
+    C[🎮 Gaming APIs] --> D[📈 PowerBI]
+    E[🏟️ Géospatial] --> F[QGIS/Shiny]
+    
+    style A fill:#1DA1F2
+    style C fill:#FF6B35
+    style E fill:#00D4AA
+
+<div align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![FIFA](https://img.shields.io/badge/FIFA_API-192A3E?style=for-the-badge&logo=fifa&logoColor=white) </div>
+
+<div align="center"> <a href="https://www.linkedin.com/in/mesmin-randhal-ossima-356ab2254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitch.tv/tonpseudo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> <a href="https://psnprofiles.com/tonpseudo"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a> </div>
+
+<div align="center"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100px"> **💼 Ouvert Data Analyst Sport/Gaming | ⚽️ Fan PSG/OM | 🎮 2000+ heures Steam** </div>```
+
+https://media.giphy.com/media/football-stats/giphy.gif
+https://media.giphy.com/media/gaming-dashboard/giphy.gif
+
+https://shields.io/ → "PSG Fan" #1DA1F2
+https://shields.io/ → "Steam 2000h" #FF6B35
+
+# 1. Clone ton repo
+git clone https://github.com/MesminRandhal/tonrepo.git
+
+# 2. Crée structure
+mkdir -p assets/{videos,screenshots}
+
+# 3. Download mes templates (liens ci-dessus)
+# 4. Push
+git add . && git commit -m "🚀 Profile PRO Football/Gaming" && git push
