@@ -65,16 +65,6 @@ graph TD
 ```
 <div align="center"> <a href="https://www.linkedin.com/in/mesmin-randhal-ossima-356ab2254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:randhalossima@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> </div>
 
-assets/videos/dashboard-demo.mp4
-assets/screenshots/*.gif
-assets/animations/football-pulse.json
-https://github.com/MesminRandhal/assets/raw/main/videos/dashboard-demo.mp4
-
-0-2s : Logo "Mesmin - Data Analyst" + ballon rebond
-2-5s : Dashboard PowerBI zoom (stats foot)
-5-8s : Graphiques gaming analytics
-8-10s : Call-to-action "Contactez-moi !"
-
 <video width="100%" height="250" autoplay loop muted playsinline>
   <source src="https://user-images.githubusercontent.com/136035185/274979678-8b0b5b5e-2b0e-4b0a-9b0a-5b5e2f3d4e5f.mp4" type="video/mp4">
   <!-- Vidéo foot/data générique -->
