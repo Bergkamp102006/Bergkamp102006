@@ -120,7 +120,6 @@ graph TD
     style C fill:#FF6B35
     style E fill:#00D4AA
 ```
-<div align="center"> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![FIFA](https://img.shields.io/badge/FIFA_API-192A3E?style=for-the-badge&logo=fifa&logoColor=white) </div>
 
 <div align="center"> <a href="https://www.linkedin.com/in/mesmin-randhal-ossima-356ab2254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitch.tv/tonpseudo"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a> <a href="https://psnprofiles.com/tonpseudo"><img src="https://img.shields.io/badge/PSN-003791?style=for-the-badge&logo=playstation&logoColor=white"/></a> </div>
 
