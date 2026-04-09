@@ -56,7 +56,7 @@
 *🌍 **Contexte :** Visualisation des stations d'épuration du bassin Rhône Méditerranée Corse avec analyse des capacités et densité infrastructurelle.*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/cartographie-stations-epuration.png" width="100%"/>
+<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/Mesmin%20OSSIMA_EMS2_cartographie.png" width="100%"/>
 </div>
 
 **📌 Caractéristiques :**  
