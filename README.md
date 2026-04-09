@@ -103,4 +103,8 @@ graph TD
 🎮 Joueur passionné - 2000+ heures Steam/PSN
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3a3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z3Z/giphy.gif" width="300px" alt="Gaming"/>
 
-</div> <div align="center"> <a href="https://img.shields.io/badge/R%C3%A9al%20Madrid-FFFFFF?style=for-the-badge&logo=soccer&logoColor=000000"></a> <a href="https://img.shields.io/badge/Steam%202000h-FF6B35?style=for-the-badge&logo=steam&logoColor=white"></a> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100px"/> **💼 Ouvert Data Analyst | 🤍 Fan Réal Madrid | 🎮 Gamer 2000h+** </div> ```
+</div> <div align="center"> <a href="https://img.shields.io/badge/R%C3%A9al%20Madrid-FFFFFF?style=for-the-badge&logo=soccer&logoColor=000000"></a> <a href="https://img.shields.io/badge/Steam%202000h-FF6B35?style=for-the-badge&logo=steam&logoColor=white"></a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJtYzJmbTUzYmlvNWIyZHBlNWtxcDJqZWY2NGw5YzExZWdyODBhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o35sLcXzrteR4mrzLw/giphy.gif" width="120px"/>💼 Ouvert Data Analyst | 🤍 Fan Réal Madrid | 🎮 Gamer 2000h+** </div> ```
+
+<div align="center">
+<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/ivindo.jpg" width="25%"/>
+</div>
