@@ -19,7 +19,7 @@
 
 ### 🔋 **Analyse Enedis - Power BI Dashboard** 
 
-*⚡ **Contexte :** Analyse des Diagnostics de Performance Énergétique (DPE) dans le Rhône. Création d'un dashboard interactif permettant d'identifier les consommations énergétiques, les coûts et les typologies de logements.*
+*⚡ **Contexte :** Analyse des Diagnostiques de Performance Énergétique (DPE) dans le Rhône. Création d'un dashboard interactif permettant d'identifier les consommations énergétiques, les coûts et les typologies de logements.*
 
 <div align="center">
 <img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/contexte%20enedis.png" width="75%"/>
