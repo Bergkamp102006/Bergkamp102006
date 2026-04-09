@@ -22,7 +22,7 @@
 *⚡ **Contexte :** Analyse des Diagnostics de Performance Énergétique (DPE) dans le Rhône. Création d'un dashboard interactif permettant d'identifier les consommations énergétiques, les coûts et les typologies de logements.*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Bergkamp102006/iut_sd2_powerbi_enedis/main/images/dashboard-conso.gif" width="49%"/>
+<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/contexte%20enedis.png" width="75%"/>
 <img src="https://raw.githubusercontent.com/Bergkamp102006/iut_sd2_powerbi_enedis/main/images/puissance-souscrite.gif" width="49%"/>
 </div>
 
@@ -40,7 +40,7 @@
 ### 📊 **Tableau de Bord Dynamique – DPE du Rhône**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Bergkamp102006/iut_sd2_powerbi_enedis/main/images/dashboard-dpe-rhone.png" width="100%"/>
+<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/Image%20TDB.png" width="75%"/>
 </div>
 
 **📈 Analyses disponibles :**  
@@ -56,7 +56,7 @@
 *🌍 **Contexte :** Visualisation des stations d'épuration du bassin Rhône Méditerranée Corse avec analyse des capacités et densité infrastructurelle.*
 
 <div align="center">
-<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/Mesmin%20OSSIMA_EMS2_cartographie.png" width="100%"/>
+<img src="https://github.com/Bergkamp102006/Bergkamp102006/blob/main/Mesmin%20OSSIMA_EMS2_cartographie.png" width="75%"/>
 </div>
 
 **📌 Caractéristiques :**  
